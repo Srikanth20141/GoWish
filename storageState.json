@@ -1,0 +1,137 @@
+{
+  "cookies": [
+    {
+      "name": "source",
+      "value": "https%253A%252F%252Fonskeskyen.dk%252F",
+      "domain": ".onskeskyen.dk",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "45EjlS2BqQgNphJrZeUZG8Gav6Cu1Zp4n2y63u_R3uo-1749762014-1.0.1.1-Bs_QaHKJvUwljuEstuHi_1gGa_IA1U8S2MJEGgRq2IPbU_v7lyoe3qR84fac6ykHgnaoSNRuO0KfslfS5Bm3a4F.RkJZnWKiJi7JFSVRBU0",
+      "domain": ".onskeskyen.dk",
+      "path": "/",
+      "expires": 1749763814.075322,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "LgdZbYJrbUCsquX7gbhu6AE2NRxBWKsyBw_xaKqNw8M-1749762014-1.2.1.1-XkqPdYE6iI2F1DmUbCdRLgiLsUlfBnW4CIXq2Lf1cTpwgngtp8l4HyKz095EzJBfXBWV6eotE8JIF7jAF0JJ1cDYLG1Wzsc25duVdQ8XxJMT_Vlj50vZvL1wGNoj73z7.8GSxvmWgou7l8Sy80RkviDhfN1OjO1guiQ8rYiX1Zx0txjigSUqiKBA2ZfeAO2AdtqZxy.P5cT17sZiXCOluN2cBYRZR1OXQvNTfI0Lzmsj4SBQnHg7NVLatZgZu75U66UgNjuG1IpHnmImXkcMb5E_2Ae1UElW.mtEGbrpoVByiztjlmNU3SS3wHJTYOv9hXyhcEdESCoX2zB.Jd.c5C3CIULOpdYuXdgAmyjwyC0",
+      "domain": ".onskeskyen.dk",
+      "path": "/",
+      "expires": 1781298014.874884,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "session",
+      "value": "b75da0540319f7ab7c011c7943271e6b",
+      "domain": ".gowish.com",
+      "path": "/",
+      "expires": 1749762618.147509,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_KPQDGGZYBE",
+      "value": "GS2.1.s1749762015$o1$g0$t1749762015$j60$l0$h0",
+      "domain": ".onskeskyen.dk",
+      "path": "/",
+      "expires": 1784322015.243529,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.293856865.1749762015",
+      "domain": ".onskeskyen.dk",
+      "path": "/",
+      "expires": 1784322015.704823,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieInformationConsent",
+      "value": "%7B%22website_uuid%22%3A%22a0cf22d1-ca17-4744-9725-318fd6816778%22%2C%22timestamp%22%3A%222025-06-12T21%3A00%3A15.545Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fonskeskyen.dk%2Fda%22%2C%22consent_website%22%3A%22onskeskyen.dk%22%2C%22consent_domain%22%3A%22onskeskyen.dk%22%2C%22user_uid%22%3A%223e2ccce9-c723-4ed9-898c-c8f29f4c207a%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome%2F138.0.7204.15%20Safari%2F537.36%22%7D",
+      "domain": "onskeskyen.dk",
+      "path": "/",
+      "expires": 1781298015,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieInformationConfig",
+      "value": "NobwRAlgJmBcYEMByBbAbgawEYE4D2AQgHZgA0YUeKCERAznMGHvRgKZ0YCebRAdFAxkwAAgCuUAGZ4ATpz4tOHbrwFCAugF91QA",
+      "domain": "policy.app.cookieinformation.com",
+      "path": "/",
+      "expires": 1781298015,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CookieInformationConsent_aNmvkb9oBn",
+      "value": "N4Ig7gpgRgzglgFwgfQK6rgExALhAQwAYBjAMwCZzMBGAWmP2oHZaAWJ112gTifIFZaAZmoAOUpgBso6pKZNRIADQgEcALYQYCfOoAOuEOUIDahSbWrkAKuWo5ChHNX4A6fq34AtZSGIB7ADsYCECENAAnABtDAAsEBD0YHAB6FKCYAGstTIBPUNdMTJTMfF8A4NDwyFhECEMM7Kz8wMLM8oyq5Ex-dXw4QIbgpryCot9UEIi0LEMhCHJiJYhuej4hNghMVdFuUWJ6cXJuUlZiYyYylQqQsJhkfD09CP8ANy3cAG0-f39MuBQDHCgQgxC0MHwEVyHT+AOQQOQpFQgWIaiC+Bi11+-0B+HC2jxcG0cGIMJx8LxyD6EWyakCAHMyXCEcjiFF8DB4KQAdgALpYyp3bqhHlffkgSYQab4elVQwAWX8AC84FF2Sk3IQAAQACgA6gMemAYFqAHLWLXUQiuQgAbi1BsCklY9oAHs6AJRagCCTyiED10AA0ogNUImK4hJJdUGABLWeUAGSUWqicGyWoA4qDMv4vbGIPhMP7OQBhWIvTQpahCUQ21x8QisVwuLUAZXwpEhcDDEajIAAvkA",
+      "domain": "policy.app.cookieinformation.com",
+      "path": "/",
+      "expires": 1781298015,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_2MSMPC8RLK",
+      "value": "GS2.1.s1749762015$o1$g0$t1749762015$j60$l0$h0",
+      "domain": ".onskeskyen.dk",
+      "path": "/",
+      "expires": 1784322015.705183,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bookmark",
+      "value": "FB%3AkcwQyE3VXaxiSpWfwGSsYLbUP8sAAAAAtVeM0ZA%3D",
+      "domain": "api.gowish.com",
+      "path": "/",
+      "expires": 1749762078.05166,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://onskeskyen.dk",
+      "localStorage": [
+        {
+          "name": "ss_webReferrer",
+          "value": "\"\""
+        },
+        {
+          "name": "sneakPeak",
+          "value": "true"
+        },
+        {
+          "name": "ss_incoming_params",
+          "value": "[{\"af_ss_exp_at\":1749769215260}]"
+        },
+        {
+          "name": "landingLocale",
+          "value": "en"
+        }
+      ]
+    }
+  ]
+}
