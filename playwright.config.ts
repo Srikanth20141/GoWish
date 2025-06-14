@@ -28,8 +28,8 @@ export default defineConfig({
     /* Base URL to use in actions like `await page.goto('/')`. */
     baseURL: 'https://onskeskyen.dk',
     screenshot: 'only-on-failure',
-    video: 'on',
-    trace: 'on',
+    video: 'retain-on-failure',
+    trace: 'retain-on-failure',
     storageState: 'storageState.json',
     //headless: false,
   },
